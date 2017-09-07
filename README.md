@@ -1,6 +1,6 @@
 # Michael Prechter
 - A basic portfolio with stuff I'm (naively) not terrified to show the world.
-- Made with Bootstrap and only four months of actual coding experience.
+- Made using Bootstrap and only four months of actual coding experience.
 - Check for updates soon(ish).
 
 ## Credits:
