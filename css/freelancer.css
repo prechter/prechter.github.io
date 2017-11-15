@@ -101,9 +101,9 @@ section.success {
   font-weight: 700;
   border: none;
   background: white;
-  border-bottom: 6px;
+  /*border-bottom: 6px;
   border-bottom-color: #F26964;
-  border-bottom-style: solid;
+  border-bottom-style: solid;*/
 }
 #mainNav a:focus {
   outline: none;
@@ -374,7 +374,7 @@ footer .footer-col {
 
 .btn-success {
   font-weight: 700;
-  color: #30302E;
+  color: white;
   border-color: #FFD464;
   background-color: #FFD464;
 }
@@ -385,9 +385,9 @@ footer .footer-col {
   background-color: #F26964;
 }
 .btn-success:hover {
-  color: white;
-  border-color: #F26964;
-  background-color: #F26964;
+  color: #30302E;
+  border-color: #FFD464;
+  background-color: #FFD464;
 }
 .btn-success.active,
 .btn-success:active,
