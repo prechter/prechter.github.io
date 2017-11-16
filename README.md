@@ -4,4 +4,3 @@
 
 ## Credits:
 - Freelancer Template by [Start Bootstrap](https://startbootstrap.com)
-- Magic Shoppe illustration by [Vecteezy](https://www.vecteezy.com)
